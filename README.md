@@ -13,4 +13,5 @@ A simple console-based project to input a student's details, calculate average m
 - Good for C language beginners
 
 ## How to Run
-Compile and run using:
+Compile and run using:gcc main.c -o student
+./student

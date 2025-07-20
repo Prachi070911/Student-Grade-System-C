@@ -16,7 +16,6 @@ char getGrade(float avg) {
 int main() {
     struct Student s;
     float total = 0, average;
-
     printf("Enter student name: ");
     fgets(s.name, sizeof(s.name), stdin);
 
